@@ -95,7 +95,7 @@
 }
 
 .header {
-  background-image: url(/img/back.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/%E8%83%8C%E6%99%AF%E7%94%BB%E5%83%8F.jpg?raw=true");
   background-size: cover;
   height: 90px;
   font-size: 10px;
@@ -190,7 +190,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  background-image: url(/img/背景画像.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/%E8%83%8C%E6%99%AF%E7%94%BB%E5%83%8F.jpg?raw=true");
 }
 
 img {
@@ -242,7 +242,7 @@ a:hover {
 .main_top {
   height: 540px;
   background-position: center;
-  background-image: url(/img/main_top.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A8%E3%83%AA%E3%82%A2%E7%94%BB%E5%83%8F.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -415,7 +415,7 @@ a:hover {
 .main-story {
   height: 420px;
   background-position: center;
-  background-image: url(/img/main_stroy.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/main_stroy.jpg?raw=true");
   background-size: cover;
   position: relative;
 }
@@ -458,7 +458,7 @@ a:hover {
 
 .comments .comments_img {
   background-position: center;
-  background-image: url(/img/comments_img@2x.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/comments_img@2x.jpg?raw=true");
   background-size: cover;
   position: relative;
   height: 215px;
@@ -500,7 +500,7 @@ a:hover {
 }
 
 .cast .inner .cast_back {
-  background-image: url(/img/cast_back.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/cast_back.jpg?raw=true");
   background-repeat: no-repeat;
   opacity: 0.9;
   background-position: bottom;
@@ -753,7 +753,7 @@ a:hover {
 .block-top {
   height: 635px;
   background-position: center;
-  background-image: url(/img/block-top@2x.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/main_stroy.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -821,7 +821,7 @@ a:hover {
 .block-top2 {
   height: 325px;
   background-position: center;
-  background-image: url(/img/block-top2@2x.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/block-top2@2x.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   vertical-align: bottom;
@@ -830,7 +830,7 @@ a:hover {
 .block-top3 {
   height: 325px;
   background-position: center;
-  background-image: url(/img/block-top3@2x.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/block-top3@2x.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -850,7 +850,7 @@ a:hover {
 .block-top4 {
   height: 325px;
   background-position: center;
-  background-image: url(/img/block-top4@2x.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/block-top4@2x.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -872,7 +872,7 @@ a:hover {
 }
 
 .comments-single .comments-img {
-  background-image: url(/img/comments@2x.jpg);
+  background-image: url("https://github.com/mikosawayuta0916/result1/blob/main/mhv/img/comments@2x.jpg?raw=true");
   height: 215px;
   width: 100%;
 }
@@ -1068,3 +1068,4 @@ a:hover {
   margin: 0px;
   padding-top: 30px;
 }
+
